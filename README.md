@@ -1,7 +1,7 @@
 
 # More Mono Color Theme for Obsidian
 
-Simple Monochromatic Theme guided by accent color
+Simple monochromatic theme driven by accent color
 
 ![Screenshot](more_mono_color.png)
 
