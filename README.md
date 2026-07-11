@@ -1,16 +1,20 @@
-
 # More Mono Color Theme for Obsidian
 
-Simple monochromatic theme driven by accent color
+A simple monochromatic theme driven by your chosen accent color.
 
 ![Screenshot](more_mono_color.png)
 
-## Extras
+## Features
 
-- Colored Highlight
-- Centralized Table
-- Colored Callout
-- Compatible with Iconize
+* Colored highlights
+* Centered tables
+* Colored callouts
+* Compatibility with Iconize
 
-![Screenshot Table and Callout](table-callout.png)
+![Table and Callout Screenshot](table-callout.png)
 
+## Installation
+
+1. Download the latest release ZIP file.
+2. Extract `manifest.json` and `theme.css` into `.obsidian/themes/MoreMonoColor/`.
+3. Activate the theme in **Settings → Appearance → Themes → More Mono Color**.
